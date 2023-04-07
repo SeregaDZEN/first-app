@@ -1,6 +1,4 @@
-package ru.netology
 
 fun main() {
-    println("Hello World!")
-   println()
+    println("First App!")
 }
